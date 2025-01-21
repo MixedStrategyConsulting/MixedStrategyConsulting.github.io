@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2025-01-20
+date: 2025-01-19
 img: ilqgames.png
 alt: Local feedback Nash solution to a dynamic game modeling autonomous driving.
 project-date: May 2020

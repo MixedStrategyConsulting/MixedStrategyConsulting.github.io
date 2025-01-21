@@ -1,7 +1,11 @@
-Freelancer Jekyll theme  
+Mixed Strategy Consulting, LLC
 =========================
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+A small consultancy operation, with expertise in optimization and game theory.
+
+Please get in touch if you'd like to chat ;)
+
+---
 
 ## How to use
  - Place a image in `/img/portfolio/`
@@ -21,12 +25,3 @@ description: The description of the project
 
 ---
 ```
-
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
-
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
-
----------
-For more details, read the [documentation](http://jekyllrb.com/)

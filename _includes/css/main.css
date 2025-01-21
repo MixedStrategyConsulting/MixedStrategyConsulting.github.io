@@ -21,8 +21,8 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    outline: 1;
-    color: white;
+    outline: 0;
+    color: #233140;
 }
 
 h1,

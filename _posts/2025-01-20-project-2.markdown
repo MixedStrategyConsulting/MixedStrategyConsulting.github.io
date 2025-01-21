@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2025-01-21
+date: 2025-01-20
 img: mcps.png
 alt: Interior point solver for mixed complementarity problems.
 project-date: December 2024
